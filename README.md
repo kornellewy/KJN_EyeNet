@@ -179,4 +179,4 @@ device. There is no need for an internet connection for the application to work.
 
 ## Credits
 
-The credits for this code go to [Siraj Raval](https://github.com/llSourcell/AI_in_Medicine_Clinical_Imaging_Classification#data). I've merely created a wrapper to get people started. 
+The credits for this code go to [Siraj Raval](https://github.com/llSourcell/AI_in_Medicine_Clinical_Imaging_Classification#data). I've merely created a wrapper to get people started.
